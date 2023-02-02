@@ -34,7 +34,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Shadows -->
-<h2 id="shadows">Shadows From Your Light</h2>
+<h2 id="shadows">{{page.title}}</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 		<p>Availble on</p>
